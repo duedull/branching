@@ -12,4 +12,4 @@ version 3
 
     this change is from master2
 
-    this is the new
+    this is the new feature 3
