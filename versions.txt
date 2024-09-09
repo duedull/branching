@@ -10,4 +10,4 @@ version 3
 
     feature3 commit3
 
-    this chnange is from master2
+    this change is from master2
