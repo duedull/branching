@@ -9,3 +9,5 @@ version 3
     feature2 commit2
 
     feature3 commit3
+
+    this chnange is from master2
