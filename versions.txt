@@ -4,4 +4,8 @@ version 2
 
 version 3
 
-version4 (including the bug fix)
+    feature1 commit1
+
+    feature2 commit2
+
+    feature3 commit3
