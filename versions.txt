@@ -11,3 +11,5 @@ version 3
     feature3 commit3
 
     this change is from master2
+
+    this is the new
