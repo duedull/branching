@@ -19,3 +19,5 @@ version 3
     git feature5
 
     new feature1
+
+    final feature_1 code
