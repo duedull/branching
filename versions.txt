@@ -16,8 +16,5 @@ version 3
     
     this is the new feature 4 branch code, lets see what kinda cinflict it will create
 
-    git feature5
 
-    new feature1
-
-    final feature_1 code
+    this is the feature 1
