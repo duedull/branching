@@ -18,6 +18,4 @@ version 3
 
     git feature5
 
-    new f2 feature
-
-    
+    new feature1
